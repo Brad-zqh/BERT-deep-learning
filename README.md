@@ -1,2 +1,2 @@
 # BERT-deep-learning
-BERT deep learning model for emotional classification
+BERT deep learning model for sentimentclassification
